@@ -5,6 +5,5 @@
 - [정렬 1 (버블정렬, 선택정렬, 삽입정렬)](https://hungseong.tistory.com/41)                     
 - [정렬 2 (병합정렬, 퀵정렬)](https://hungseong.tistory.com/43)                                                  
 - [동적 계획법 (Dynamic Programming, DP) (+ 분할 정복과의 차이)](https://hungseong.tistory.com/42)                     
-- 그리디 알고리즘                
-- 완전탐색                  
-- DFS, BFS                      
+- 그리디 알고리즘                                
+- 완전탐색, DFS, BFS                      
